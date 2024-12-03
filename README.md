@@ -1,4 +1,4 @@
-# AI Mate
+# [AI Mate](http://aimate.aikopo.net/, "AI Mate")
 AIMate는 Flask 기반의 RESTful API로, OpenAI와 MariaDB를 활용한 챗봇 및 기상 정보를 제공하는 시스템입니다. 이 프로그램은 사용자의 일정 관리와 챗봇 대화, 그리고 기상 정보를 제공하는 기능을 제공합니다.
 ## 기능 소개
 1. 챗봇 기능:
